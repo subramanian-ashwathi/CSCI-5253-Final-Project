@@ -1,0 +1,12 @@
+apache-airflow 
+apache-airflow-providers-apache-spark
+pandas
+requests
+pyspark==3.1.2
+matplotlib
+statsmodels
+google-auth
+google-auth-httplib2 
+google-api-python-client
+pandas_gbq
+sqlalchemy
